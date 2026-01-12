@@ -1,0 +1,11 @@
+com.Bridge-Hook-corp.Bridge-Hook
+Bridge Hook
+
+alias: bridge
+password: bridge
+alias-password: bridge
+
+
+https://www.figma.com/design/DVvHHduQFCtSdPcg68S3Jq/Bridge-Hook?node-id=0-1&p=f&t=paiVLGRaIkHTEDoW-0
+
+
