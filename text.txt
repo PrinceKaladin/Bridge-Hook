@@ -6,6 +6,7 @@ password: bridge
 alias-password: bridge
 
 
+https://docs.google.com/document/d/1oY4w-mz38ZosGYd1Guqo4XyI7-cfN11d3fRnNRyD0pA/edit?usp=sharing
 https://www.figma.com/design/DVvHHduQFCtSdPcg68S3Jq/Bridge-Hook?node-id=0-1&p=f&t=paiVLGRaIkHTEDoW-0
 
 
